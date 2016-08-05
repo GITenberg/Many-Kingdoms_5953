@@ -1,0 +1,29 @@
+_repo: Many-Kingdoms_5953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jordan, Elizabeth Garver
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: Varick's lady o' dreams -- The exorcism of Lily Bell -- Her last
+  day -- The simple life of Genevieve Maud -- His boy -- The community's sunbeam --
+  In memory of Hannah's laugh -- The quest of Aunt Nancy -- The Henry Smith's honeymoon
+  -- The case of Katrina -- Bart Harrington, genius.
+title: Many Kingdoms
+url: http://www.gutenberg.org/ebooks/5953
